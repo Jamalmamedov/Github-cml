@@ -1,0 +1,7 @@
+Gunumuzde en populyar kontrol sistemi olan Github ile proyektin idare edilmesi artiq cox asandir.Github islederek yaratdigimiz proyekte ferqli yerlerden ferqli insanlar celb ede biler,onlara tapsiriqlar vere biler ve etdiklerini kontrol ede bilerik.Github istifade ederek komanda halinda ve ya ferdi sekilde yeni proyektler yarada biler,proyekte insanlar celb ede biler,onlarin islerine nezaret ede biler,esas proekti deyisdirmeden ona duzelisler ede biler ve yeni kodlar yaza bilerik.
+Butun boyuk proyektlerde isledilen Github ile komandamizin ve proyektin idaresini asanliqla ede bilerik.
+Github vasitesile kimlerin ne qeder kod yazdigini, ne qeder isleme muddetini, ne qeder ve ne commentler yazdigini gore bilerik.
+Github icerisinde olan public calisilan proyektlere (Pull request) ederek daxil olmaq olar.
+Githubin arama bolmesinde maraqlandigimiz bir proyekte daxil olub onun kodlarina, setirlerine ve hetta sehv gorduyumuz yerde (ISSUE) ederek elaveler ede bilerik.
+Github vasitesile yazdigimiz kodlarin ne qeder duzgun, keyfiyyetli olub-olmamagini onlara edilen reyler,duzelisler dogrultusunda oyrene bilerik.
+Githubin ustunluklerinden biri de burada yazdiqlarimizin arxivlenmesidir,yeni kod yazarken her bir deyisikliyi,elaveni ve s. githuba yollayib istediyimiz zaman baxa bilerik.
